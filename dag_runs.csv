@@ -1,0 +1,5 @@
+dag_id,status,duration_seconds,sla_seconds
+claims_daily,success,120,300
+claims_daily,failed,90,300
+revenue_hourly,success,450,300
+revenue_hourly,success,200,300
